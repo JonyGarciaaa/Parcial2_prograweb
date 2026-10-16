@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Capturas temporales
+captura_*.png
+
+# Archivos temporales de Word
+~$*
+
